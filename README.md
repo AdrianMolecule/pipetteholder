@@ -1,6 +1,7 @@
 # pipetteholder
 
 ## Portable Low-Cost Pipette Holder
+Click on the final.jpg to see a picture of the final product!
 
 A **portable pipette holder** is essential for fieldwork, classes, demos, or any situation where a stable and convenient place for storing pipettes is needed. This guide details how to build a functional, cost-effective pipette holder using **recycled materials** and **3D-printed parts**. With a little creativity, you can assemble a holder that meets your needs without breaking the bank.
 
