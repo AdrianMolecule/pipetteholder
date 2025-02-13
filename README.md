@@ -1,7 +1,4 @@
 # pipetteholder
-Certainly! Here's an improved and structured version of your documentation for the portable low-cost pipette holder:
-
----
 
 ## Portable Low-Cost Pipette Holder
 
