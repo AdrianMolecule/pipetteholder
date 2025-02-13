@@ -13,17 +13,16 @@ A **portable pipette holder** is essential for fieldwork, classes, demos, or any
 ### Instructions:
 
 Quick Guide:
-Obtain a Chocolate Box
-Start with an empty chocolate box as the base for your holder.
 
-Enjoy the Chocolates
-Enjoy the chocolates and savor the sweet reward!
+Take a Chocolate Box (Ferrero Rocher is a good choice)
+
+Eat all the chocolates
 
 3D Print the Pipette Hooks
-Download and print the custom pipette hooks using a 3D printer.
+Print the custom pipette hooks using a 3D printer.
 
 Prepare an Elastic Loop
-Use an elastic band to create a loop for added stability and organization.
+Use an elastic band to create a loop for added stability and organization. Undies are great donor.
 
 Add Foam Padding
 Place foam padding inside the box to cushion and secure the pipettes.
